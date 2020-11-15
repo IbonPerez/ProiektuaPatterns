@@ -1,0 +1,295 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 13:15:13 #1 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 11712@Ginkas
+
+[2020-11-11 13:15:13 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 13:15:13 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 13:15:13 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 13:15:13 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-11-11 13:15:13 #6 type] 
+Type domain.Admins is not enhanced.
+
+[2020-11-11 13:15:13 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-11 13:15:13 #8 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 13:16:30 #1 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' has been recovered (tr. 10858-10858)
+
+[2020-11-11 13:16:30 #2 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 20620@Ginkas
+
+[2020-11-11 13:16:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 13:16:30 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 13:16:30 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 13:16:30 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-11-11 13:16:30 #7 type] 
+Type domain.Admins is not enhanced.
+
+[2020-11-11 13:16:30 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-11 13:16:30 #9 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 13:17:30 #1 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' has been recovered (tr. 10859-10861)
+
+[2020-11-11 13:17:30 #2 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 18840@Ginkas
+
+[2020-11-11 13:17:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 13:17:31 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 13:17:31 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 13:17:31 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-11-11 13:17:31 #7 type] 
+Type domain.Admins is not enhanced.
+
+[2020-11-11 13:17:31 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-11 13:17:31 #9 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 13:18:01 #1 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 10740@Ginkas
+
+[2020-11-11 13:18:01 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 13:18:01 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 13:18:01 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 13:18:01 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-11-11 13:18:01 #6 type] 
+Type domain.Admins is not enhanced.
+
+[2020-11-11 13:18:01 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-11 13:18:01 #8 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 13:18:45 #1 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' has been recovered (tr. 10862-10865)
+
+[2020-11-11 13:18:45 #2 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 3464@Ginkas
+
+[2020-11-11 13:18:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 13:18:45 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 13:18:45 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 13:18:45 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-11-11 13:18:45 #7 type] 
+Type domain.Admins is not enhanced.
+
+[2020-11-11 13:18:45 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-11 13:18:45 #9 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 13:45:47 #1 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 16100@Ginkas
+
+[2020-11-11 13:45:47 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 13:45:47 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 13:45:47 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 13:45:47 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-11-11 13:45:47 #6 type] 
+Type domain.Admins is not enhanced.
+
+[2020-11-11 13:45:47 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-11 13:45:47 #8 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 13:57:02 #1 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 13988@Ginkas
+
+[2020-11-11 13:57:02 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 13:57:02 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 13:57:02 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 13:57:02 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-11-11 13:57:02 #6 type] 
+Type domain.Admins is not enhanced.
+
+[2020-11-11 13:57:02 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-11 13:57:02 #8 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 14:10:57 #1 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 16984@Ginkas
+
+[2020-11-11 14:10:57 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 14:10:57 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 14:10:57 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 14:10:57 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-11-11 14:10:57 #6 type] 
+Type domain.Admins is not enhanced.
+
+[2020-11-11 14:10:57 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-11 14:10:57 #8 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 14:13:31 #1 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 7764@Ginkas
+
+[2020-11-11 14:13:31 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 14:13:31 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 14:13:31 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 14:13:31 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-11-11 14:13:31 #6 type] 
+Type domain.Admins is not enhanced.
+
+[2020-11-11 14:13:31 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-11 14:13:31 #8 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 14:19:29 #1 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 10504@Ginkas
+
+[2020-11-11 14:19:29 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 14:19:29 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 14:19:29 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 14:19:29 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-11-11 14:19:29 #6 type] 
+Type domain.Admins is not enhanced.
+
+[2020-11-11 14:19:29 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-11 14:19:29 #8 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 14:33:52 #1 store] 
+Database 'C:\Users\Ibon\workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 10232@Ginkas
+
+[2020-11-11 14:33:52 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 14:33:52 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 14:33:52 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 14:33:52 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-11-11 14:33:52 #6 type] 
+Type domain.Admins is not enhanced.
+
+[2020-11-11 14:33:52 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-11 14:33:52 #8 type] 
+Type domain.Mugimenduak is not enhanced.
+
