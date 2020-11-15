@@ -1,5 +1,5 @@
 package gui;
-//
+
 import java.awt.Color;
 import java.net.URL;
 import java.util.Locale;
